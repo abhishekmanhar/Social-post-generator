@@ -32,3 +32,8 @@ Now, you can run the project using the following command:
 ```bash
   npm start
 ```
+
+## Demo
+Click on the below link to see the result:-
+
+https://social-post-generator-nine.vercel.app/
